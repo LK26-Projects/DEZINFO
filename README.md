@@ -30,3 +30,7 @@ Walidator ma być niezależny od DOM, CSS, `fetch` i Supabase.
 ## Sekrety
 
 Sekrety pozostają w `.env` i nie trafiają do repozytorium.
+
+## Deployment
+
+Aplikacja DEZINFO jest wdrażana automatycznie na Vercel z repozytorium GitHub.
